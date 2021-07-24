@@ -83,9 +83,13 @@ I created these images, feel free to use them.
 
 ---
 
-Reach out to me 👓
+# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
-|  <a href="https://t.me/dihanrandila/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Dihan Randilaa](https://t.me/dihanrandila/)**                                                                                |
+<p align="center">
+  <a href="https://github.com/Dihanofficial">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dihanofficial#version3"/>
+  </a>
+</p>
+<a href="h
 
+  <a href="https://github.com/Dihanofficial"><img alt="Dihan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dihanofficial&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
