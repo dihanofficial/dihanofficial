@@ -10,7 +10,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/Damantha_Jasinghe"><img src="" width="150px" height="150px" /></a> |
+| <a href="https://t.me/Dihanrandila"><img src="" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Dihan Randila](https://t.me/dihanrandila)**                                                                                |
 | <a href="https://t.me/Dihanrandila"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/Dihanrandila"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/UCJYoog0kYNDridrBlcvwMoQ"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://twitter.com/Dihanrandila"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                                                   
