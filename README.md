@@ -26,7 +26,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
   
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
--  🔭 I’m currently working on : Dtech Corporation  <br>
+-  🔭 I’m currently working on : Dihan Official <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
 -  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
