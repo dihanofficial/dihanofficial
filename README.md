@@ -67,7 +67,7 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 
-
+<p align="center"> <a href="https://github.com/dihanofficial"><img src="https://github-profile-trophy.vercel.app/?username=DDihanofficial&no-bg=true" alt="Dihaofficial" /></a> </p>
 
 ## Join My Group
 <a href="https://t.me/dihanofficial" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
