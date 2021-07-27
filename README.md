@@ -77,9 +77,10 @@ I created these images, feel free to use them.
 -->
 # MOST USED LANGUAGES
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=dihanofficial)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=dihanofficial&layout=compact&theme=midnight-purple&hide=Css)
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 
 
 ---
