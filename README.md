@@ -86,16 +86,7 @@ I created these images, feel free to use them.
 
 
 
----
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.89 
-HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
-Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
-Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
 
-----
 
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
