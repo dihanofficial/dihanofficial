@@ -1,5 +1,6 @@
 <!-- Your title -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000FD&lines=Hi+!%F0%9F%91%8B+There+I'm+%F0%9D%98%BF%F0%9D%99%9E%F0%9D%99%9D%F0%9D%99%96%F0%9D%99%A3+%F0%9D%99%8D%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%99%F0%9D%99%9E%F0%9D%99%A1%F0%9D%99%96+%F0%9F%87%B1%F0%9F%87%B0;-+%3E+Bots+Developer;-+%3E+Web+Developer;-+%3E+Music+Lover;-+%3E+Graphic+Designer;-+%3E+Programmer)](https://git.io/typing-svg)
+Hi !👋 There I'm 𝘿𝙞𝙝𝙖𝙣 𝙍𝙖𝙣𝙙𝙞𝙡𝙖 🇱🇰 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&lines=-%3E+Bots+Developer;-%3E+Web+Developer;-%3E+Graphic+Designer;-%3EYoutuber;-%3E+Music+Lover;-%3E+Programmer)](https://git.io/typing-svg)
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
