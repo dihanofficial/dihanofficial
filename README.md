@@ -1,6 +1,6 @@
 <!-- Your title -->
-Hi !👋 There I'm 𝘿𝙞𝙝𝙖𝙣 𝙍𝙖𝙣𝙙𝙞𝙡𝙖 🇱🇰 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&lines=-%3E+Bots+Developer;-%3E+Web+Developer;-%3E+Graphic+Designer;-%3EYoutuber;-%3E+Music+Lover;-%3E+Programmer)](https://git.io/typing-svg)
+<b> Hi !👋 There I'm 𝘿𝙞𝙝𝙖𝙣 𝙍𝙖𝙣𝙙𝙞𝙡𝙖 🇱🇰 <b>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Bots+Developer;-%3E+Web+Developer;-%3E+Graphic+Designer;-%3EYoutuber;-%3E+Music+Lover;-%3E+Programmer)](https://git.io/typing-svg)
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
