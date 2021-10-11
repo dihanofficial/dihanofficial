@@ -1,5 +1,5 @@
 <!-- Your title -->
-<h1><b> Hi !👋 There I'm 𝘿𝙞𝙝𝙖𝙣 𝙍𝙖𝙣𝙙𝙞𝙡𝙖 🇱🇰 </b></h1>
+<h1><b> Hi !👋 There I'm Dihan Randila 🇱🇰 </b></h1>
 
 
 
