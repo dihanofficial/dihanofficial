@@ -23,14 +23,7 @@ You can use the website to generate badges: https://shields.io/
 <br>
 <br>
 
-- ![Profile views](https://gpvc.arturio.dev/Dihanofficial)
-- [![GitHub followers](https://img.shields.io/github/followers/Dihanofficial.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Dihanofficial?tab=followers)
-  
 
-<p align="center"> <a href="https://github.com/Dihanofficial"><img src="https://github-profile-trophy.vercel.app/?username=Dihanofficial&no-bg=true" alt="Dihanofficial" /></a> </p>
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
 
 
                                                                
