@@ -46,9 +46,7 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/dihanofficial/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=dihanofficial&layout=compact&show_icons=true&theme=radical&cache_seconds=1800" />
-  </a>
+  <a href="https://github.com/dihanofficial"><img src="https://github-profile-trophy.vercel.app/?username=dihanofficial&no-bg=true" alt="Dihan Official" /></a> </p>
   
   
 
