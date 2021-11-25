@@ -40,13 +40,15 @@ You can use the website to generate badges: https://shields.io/
 -  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 - ⚡️ Fun-Fact: I'm Still Student;
 
-**Languages and Tools:** 
+<details>
+  <summary> Github Stats </summary>
+  <br/>
+<p align="left"> <a href="https://github.com/dihanofficial"><img src="https://github-profile-trophy.vercel.app/?username=dihanofficial&no-bg=true" alt="dihan official" /></a> </p>
+</details>
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
+# 📊 Status
 [![Metrics](https://metrics.lecoq.io/dihanofficial?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/dihanrandila)
+ 
   
   
 
