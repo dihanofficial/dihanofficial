@@ -39,7 +39,7 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: I'm Still Student;
 
 <details>
-  <summary> Github Stats </summary>
+   Github Stats
   <br/>
 <p align="left"> <a href="https://github.com/dihanofficial"><img src="https://github-profile-trophy.vercel.app/?username=dihanofficial&no-bg=true" alt="dihan official" /></a> </p>
 </details>
